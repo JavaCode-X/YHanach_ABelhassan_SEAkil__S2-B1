@@ -9,4 +9,14 @@
     <welcome-file>default.jsp</welcome-file>
     <welcome-file>default.htm</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>projectServlet</display-name>
+    <servlet-name>projectServlet</servlet-name>
+    <servlet-class>com.gestiondeprojet.servelets.projectServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>projectServlet</servlet-name>
+    <url-pattern>/projectServlet</url-pattern>
+  </servlet-mapping>
 </web-app>
