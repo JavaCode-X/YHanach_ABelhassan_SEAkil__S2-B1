@@ -9,6 +9,7 @@
     <welcome-file>default.jsp</welcome-file>
     <welcome-file>default.htm</welcome-file>
   </welcome-file-list>
+<<<<<<< HEAD
   <servlet>
     <description></description>
     <display-name>projectServlet</display-name>
@@ -20,3 +21,7 @@
     <url-pattern>/projectServlet</url-pattern>
   </servlet-mapping>
 </web-app>
+=======
+</web-app>
+
+>>>>>>> origin/main

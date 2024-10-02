@@ -4,7 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<<<<<<< HEAD
 <title>Insert title here</title>
+=======
+<title>Projects</title>
+>>>>>>> origin/main
 </head>
 <body>
 
