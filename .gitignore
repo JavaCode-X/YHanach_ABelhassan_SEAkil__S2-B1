@@ -1,7 +1,7 @@
 /target/
-<<<<<<< HEAD
 /additionalBuildTarget.xml
 /build.properties
-=======
-/.env/
->>>>>>> e82d09f5aa7948fe4abbb8956282cd12e70697b8
+/.env
+/.settings
+
+
