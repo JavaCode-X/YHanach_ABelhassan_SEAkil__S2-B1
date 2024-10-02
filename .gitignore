@@ -1,1 +1,3 @@
 /target/
+/additionalBuildTarget.xml
+/build.properties
